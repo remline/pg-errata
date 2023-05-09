@@ -111,8 +111,9 @@ English works on the subject had, however, been added.
 In conclusion the translator would like to thank his colleagues, C.G.
 Child and Cornelius Weygandt, for their helpful suggestions in starting
 the work, and also to acknowledge his indebtedness to the German edition
-of Paul Piper, especially in preparing the notes. --DANIEL BUSSIER
-SHUMWAY,
+of Paul Piper, especially in preparing the notes.
+
+--DANIEL BUSSIER SHUMWAY.
 
 Philadelphia, February 15, 1909.
 
@@ -160,7 +161,7 @@ or ducal libraries, there to wait till a more cultured age, curious
 as to the literature of its ancestors, should bring it forth from
 its hiding places. However, the figures of the old legend were not
 forgotten, but lived on among the people, and were finally embodied in a
-popular ballad, "Das Lied vom Hurnen Segfrid", which has been preserved
+popular ballad, "Das Lied vom Hurnen Seyfrid", which has been preserved
 in a print of the sixteenth century, although the poem itself is thought
 to go back at least to the thirteenth. The legend was also dramatized by
 Hans Sachs, the shoemaker poet of Nuremberg, and related in prose form
@@ -293,7 +294,7 @@ portion of the "Codex Regius" which has been lost, and thus furnishes us
 with the contents of the missing songs.
 
 The third source is the prose "Edda", sometimes called the "Snorra
-Edda", after the famous Icelander Snorri Sturluson (1178-1241),to whom
+Edda", after the famous Icelander Snorri Sturluson (1178-1241), to whom
 it was ascribed. The author was acquainted with both the poetic "Edda"
 and the "Volsungasaga", and follows these accounts closely. The younger
 "Edda" is not really a tale, but a book of poetics; it relates, however,
@@ -378,7 +379,7 @@ cutting off Regin's head, drinking the blood of both brothers, and
 eating Fafnir's heart. (3) On the further advice of the birds Sigurd
 first fetches the treasure from the cave, and then journeys to the
 mountain "Hindarfjall", where he rescues the sleeping Valkyrie,
-"Sigrdrifu" ("Brynhild", "Brunhild"), who, stung by the sleep thorn
+"Sigrdrifa" ("Brynhild", "Brunhild"), who, stung by the sleep thorn
 of Wodan, and clad in full armor, lies asleep within a castle that is
 surrounded by a wall of flame. With the help of his steed Grani, Sigurd
 succeeds in penetrating through the fire to the castle. The sleeping
@@ -391,7 +392,7 @@ and to remember her teachings.
 
 On his journeyings Sigurd soon arrives at the court of "Giuki" (the
 Norse form of the German "Gibicho", "Gibich"), a king whose court lay on
-the lower Rhine. Giuki has three sons, "Gunnar", "Hogni", and "Guthorm",
+the lower Rhine. Giuki has three sons, "Gunnar", "Hogni", and "Gutthorm",
 and a daughter "Gudrun", endowed with great beauty. The queen bears
 the name of Grimhild, and is versed in magic, but possessed of an evil
 heart. (4) Sigurd is received with great honor, for his coming had been
@@ -519,7 +520,7 @@ adventures of Gudrun, but they do not concern us here, as the
 
 This in brief is the story of Siegfried, as it has been handed down to
 us in the Skandinavian sources. It is universally acknowledged that
-this version, though more original than the Gorman tradition, does not
+this version, though more original than the German tradition, does not
 represent the simplest and most original form of the tale; but what the
 original form was, has long been and still is a matter of dispute. Two
 distinctly opposite views are held, the one seeing in the story the
@@ -727,7 +728,7 @@ as the type of a cruel tyrant, greedy for conquest, it was but natural
 for him to play the role assigned to him in the legend. Quite plausible
 is Boer's explanation of the entrance of Attila into the legend. The
 "Thidreksaga" locates him in Seest in Westphalia. Now this province once
-bore the haute of "Hunaland", and by a natural confusion, because of
+bore the name of "Hunaland", and by a natural confusion, because of
 the similarity of the names, "Huna" and "Huns", Attila, who is the
 chief representative of Hunnish power, was connected with the legend
 and located at Seest. This would show that the original extension of the
@@ -933,8 +934,8 @@ Middle High German language in which the poem is written:
      ane ma zen schoene   so was ir edel lip;
      der iunevrouwen tugende   zierten anderiu wip.
 
-     Ir pilagen drie kilnege   edel unde rich,
-     Ganther ande Geruot,   die recken lobelieh,
+     Ir pflagen drie kunege   edel unde rich,
+     Gunther unde Gernot,   die recken lobelich,
      und Giselher der iunge,   ein uz erwelter degen,
      diu frouwe was ir swester,   die fu'rsten hetens in ir
                                         pflegen.
@@ -1052,7 +1053,7 @@ epic of German literature.
        that the Norse version is here more original.  Gunnar is the
        same as Gunther (Gundaharius), Hogni as Hagen; Gutthorm
        (Godomar) appears in the German version as Gernot.  In this
-       latter the father is called Danerat, the mother Uote, and
+       latter the father is called Dancrat, the mother Uote, and
        the name Grimhild is transferred from the mother to the
        daughter.
   (5)  In the prose "Edda", in the water which drips from Gudrun's
@@ -1244,7 +1245,7 @@ mother's son.
    (15) "Eckewart" is also a late accession.  He is perhaps the
         historical margrave of Meissen (1002), the first of the
         name.  He, too, won fame in battle against the Slavs.
-   (16) "Folker of Alzet" (M.H.G. "Volker von Alzeije"), the
+   (16) "Folker of Alzei" (M.H.G. "Volker von Alzeije"), the
         knightly minstrel, is hardly an historical personage, in
         spite of the fact that Alzey is a well-known town in Rhine
         Hesse on the Selz, eighteen miles southwest of Mainz.  The
@@ -1255,7 +1256,7 @@ mother's son.
         minstrel, and it is probable that some minstrel reviser of
         our poem developed the character and made it the
         personification of himself.
-   (17) "Rumolt", "Bindolt", and "Hunolt" have no historical basis
+   (17) "Rumolt", "Sindolt", and "Hunolt" have no historical basis
         and merely help to swell the retinue of the Burgundians.
    (18) "Worship".  This word has been frequently used here in its
         older meaning of 'worth', 'reverence', 'respect', to
@@ -1267,7 +1268,7 @@ mother's son.
 ADVENTURE II. Of Siegfried.
 
 In the Netherlands there grew the child of a noble king (his father had
-for name Siegemund, (1) his mother Siegelind), (2) in a mighty castle,
+for name Siegmund, (1) his mother Siegelind), (2) in a mighty castle,
 known far and wide, in the lowlands of the Rhine: Xanten, (3) men called
 it. Of this hero I sing, how fair he grew. Free he was of every blemish.
 Strong and famous he later became, this valiant man. Ho! What great
@@ -1377,7 +1378,7 @@ was sore adread.
    (7)  "Palace" (M.H.G. "palas", Lat. "palatium") is a large
         building standing alone and largely used as a reception
         hall.
-   (8)  "Truncheons" (M.H.G. "trunzune", O.F. "troncon", 'lance
+   (8)  "Truncheons" (M.H.G. "trunzune", O.F. "troncon"), 'lance
         splinters', 'fragments of spears'.
    (9)  "To-shivered", 'broken to pieces', in imitation of the older
         English to-beat, to-break, etc.
@@ -1543,7 +1544,7 @@ him, till he gained knowledge of them there.
 a wondrous tale, of how the liegemen of Nibelung wished to divide it
 there. This the hero Siegfried saw and much it gan wonder him. So near
 was he now come to them, that he beheld the heroes, and the knights
-espied him, too. One among them spake: `Here cometh the mighty
+espied him, too. One among them spake: 'Here cometh the mighty
 Siegfried, the hero of Netherland.' Passing strange were the tidings
 that, he found among the Nibelungs. Schilbung and Nibelung greeted well
 the knight; with one accord these young and noble lordings bade the
@@ -1767,7 +1768,7 @@ Now there came strange tales to Gunther's land, though messengers sent
 them from afar--tales of unknown warriors, who bare them hate. When they
 heard this word, in sooth it pleased them not. These warriors will
 I name to you: there was Liudeger of Saxon land, a great and lordly
-prince, and then from Denmark Lindegast, the king. For their journey
+prince, and then from Denmark Liudegast, the king. For their journey
 they had gathered many a lordly stranger.
 
 To Gunther's land were come the messengers his foes had sent. Men asked
@@ -2014,7 +2015,7 @@ Netherland thought to win the battle from the valiant Saxons, wondrous
 many of whom one saw. Ho! How many shining armor-rings the daring
 Dankwart broke!
 
-Then Sir Liudegor espied a crown painted on the shield in Siegfried's
+Then Sir Liudeger espied a crown painted on the shield in Siegfried's
 hand. Well he knew that it was Siegfried, the mighty man. To his friends
 the hero loudly called: "Desist ye from the strife, my men, here I have
 seen the son of Siegmund, Siegfried, the strong, and recognized him
@@ -2416,7 +2417,7 @@ must needs later lose their lives.
 One day when the king and his vassals sate and pondered to and fro in
 many a wise, whom their lord might take to wife, who would be fit to be
 their lady and beseem the land, up spake the lord of the Rhinelands: "I
-will go down to the sea and hence to Brunhlld, however it may go with
+will go down to the sea and hence to Brunhild, however it may go with
 me. For her love I'll risk my life. I will gladly lose it and she become
 not my wife."
 
@@ -2847,7 +2848,7 @@ spake full grim of mood: "How now, King Gunther? How we shall lose our
 lives! She you would make your love is the devil's bride, in truth."
 
 Hear now about her weeds; enow of these she had; she wore a surcoat
-of silk of Azagoue, (3) noble and costly. Many a lordly stone shone in
+of silk of Azagouc, (3) noble and costly. Many a lordly stone shone in
 contrast to its color on the person of the queen.
 
 Then was brought forth for the lady a spear, sharp, heavy, and large,
@@ -3008,7 +3009,7 @@ that ye've sent me hence."
    (3)  "Azagouc".  See Zazamanc, Adventure VI, note 2.  This
         strophe is evidently a late interpolation, as it contradicts
         the description given above.
-   (4)  Weights.  The M.H.G. "messe" (Lat. "masse") is just as
+   (4)  Weights.  The M.H.G. "messe" (Lat. "massa") is just as
         indefinite as the English expression.  It was a mass or lump
         of any metal, probably determined by the size of the
         melting-pot.
@@ -3223,7 +3224,7 @@ Then spake King Gunther: "Ye have told me true, and none be more fitting
 for this trip than ye, friend Hagen; now ride ye to my land. None can
 acquaint them better with our journey home to court."
 
-To this Hagen made answer: "I am no fit envoy. Let me play chamberlan,
+To this Hagen made answer: "I am no fit envoy. Let me play chamberlain,
 I'll stay with the ladies upon the flood and guard their robes, until
 we bring them to the Burgundian land. Bid Siegfried bear the message, he
 knoweth how to do it well with his mighty strength. If he refuse you the
@@ -3406,7 +3407,7 @@ boats, they hasted to the shore (not idle were their hands), where the
 kindred of the king were seen upon the other bank. Now hear this tale,
 too, of the queen, the noble Uta, how she herself rode hither with the
 maidens from the castle. Then many a knight and maid became acquaint.
-Duke Gere led Kriemhild's palfroy by the bridle till just outside
+Duke Gere led Kriemhild's palfrey by the bridle till just outside
 the castle gate. Siegfried, the valiant knight, must needs attend her
 further. A fair maid was she! Later the noble dame requited well this
 deed. Ortwin, the bold, rode by Lady Uta's side, and many knights and
@@ -3726,7 +3727,7 @@ was sore ashamed; wrathful he waxed and with surpassing strength he set
 himself against her and tried it again with Lady Brunhild in fearful
 wise. It thought the king full long, before he conquered her. She
 pressed his hands, till from her strength the blood gushed forth from
-out the nails: this irked the hero. Therefore he brought the highborn
+out the nails: this irked the hero. Therefore he brought the high-born
 maiden to the pass that she gave over her unruly will, which she
 asserted there afore. The king heard all, albeit not a word he spake.
 Siegfried pressed her against the bed, so that she shrieked aloud.
@@ -4659,7 +4660,7 @@ use such faithlessness.
 
 
    ENDNOTES:
-   (1)  "Brach", 'hunting dog', cognate with M.H.G. "braeke", used
+   (1)  "Brach", 'hunting dog', cognate with M.H.G. "bracke", used
         here.
 
 
@@ -4832,7 +4833,7 @@ of thirst."
 
 Then spake Hagen: "Dear my lord, I weened that the hunt should be in the
 Spessart (7) wood, therefore sent I thither the wine. Though we may not
-drink today, how well will I avoid this in the future!"
+drink to-day, how well will I avoid this in the future!"
 
 At this Lord Siegfried spake: "Small thanks ye'll get for that. One
 should have brought me hither seven sumpter loads of mead and mulled
@@ -4934,11 +4935,11 @@ let it avail her that she be your sister. For the sake of your princely
 courtesie protect her faithfully. My father and my men must wait long
 time for me. Never was woman sorer wounded in a loving friend."
 
-The flowers on every side were wot with blood. With death he struggled,
+The flowers on every side were wet with blood. With death he struggled,
 but not for long, sith the sword of death had cut him all too sorely.
 Then the lusty warrior and a brave could speak no more.
 
-When the lordlings saw that the knight was dead, they laid him on a
+When the lordings saw that the knight was dead, they laid him on a
 shield of ruddy gold and took counsel how they might conceal that Hagen
 had done the deed. Enow of them spake: "Ill hath it gone with us. Ye
 must all hide it and aver alike that robbers slew Kriemhild's husband as
@@ -5049,7 +5050,7 @@ him fully before my death."
 "If ye will believe naught of what ye hear me say, then you may hear
 yourself Kriemhild and all her maids bewailing Siegfried's death."
 
-Siegmund then was sore affrighted, as indeed he had great need, He and
+Siegmund then was sore affrighted, as indeed he had great need. He and
 a hundred of his men sprang from their beds and grasped with their hands
 their long sharp swords. In sorrow they ran toward the sound of wail.
 Then came a thousand men-at-arms, bold Siegfried's men. When they heard
@@ -5175,7 +5176,7 @@ three days and nights, until I sate me with my dear lord. What if God
 doth bid that death should take me too. Then had ended well the grief of
 me, poor Kriemhild."
 
-The people of the town returned now to their lodgeings. She begged the
+The people of the town returned now to their lodgings. She begged the
 priests and monks and all his retinue, that served the knight, to stay.
 They spent full evil nights and toilsome days; many a man remained
 without all food and drink. For those who would partake, it was made
@@ -5507,7 +5508,7 @@ owned.
         for the bridegroom to give the bride on the morning after
         the bridal night.  On this custom see Weinhold, "Deutsche
         Frauen im Mittelalter", i, p. 402.
-   (2)  "A1berich", see Adventure III, note 8.  It is characteristic
+   (2)  "Alberich", see Adventure III, note 8.  It is characteristic
         of the poem that even this dwarf is turned into a knight.
    (3)  "Wishing-rod", a magic device for discovering buried
         treasure.  Cf. Grimm, "Deutsche Mythologie," ii, 813.
@@ -5570,7 +5571,7 @@ help me, that she look with favor on my suit."
 Rudeger made answer: "Ere we void the land, we must first make ready
 arms and trappings, that we may stand with honor before princes. I will
 lead to the Rhine five hundred stately men, that wherever in Burgundy I
-and mine be seen, all may say of thee: `Never did any king send afar so
+and mine be seen, all may say of thee: 'Never did any king send afar so
 many men in better wise than thou hast done to the Rhine.' If thou, O
 mighty king, wilt not turn back on this account, I'll tell thee that
 her noble love was subject unto Siegfried, Siegmund's son. Him thou hast
@@ -5734,7 +5735,7 @@ these three days. Why should I refuse King Etzel before I've learned her
 wish?"
 
 Meanwhile men bade purvey good easement for the guests. They were served
-so well that Rudeger owned he had good friends there among Gunthers men.
+so well that Rudeger owned he had good friends there among Gunther's men.
 Hagen served him gladly, as Rudeger had done to him of yore. Till the
 third day Rudeger thus remained. The king sent for his counsel (full
 wisely he acted) to see whether his kinsmen would think it well that
@@ -5833,7 +5834,7 @@ They bade the lording and his vassals seat them. Before her were seen to
 stand the two Margraves Eckewart and Gere, the noble knights and good.
 None they saw merry of mood, for the sake of the lady of the house. Many
 fair women were seen to sit before her, but Kriemhild only nursed her
-grief; her dress upon her breast was wot with scalding tears. This the
+grief; her dress upon her breast was wet with scalding tears. This the
 noble margrave noted well on Kriemhild.
 
 Then spake the high-born messenger: "Most noble princess, I pray you,
@@ -6024,7 +6025,7 @@ none of it. Forsooth I brought from home such store of mine that we can
 lightly do without this on the road, for we be furnished for the journey
 in full lordly wise."
 
-Aforr this her maids had filled twelve chests at leisure with the very
+Afore this her maids had filled twelve chests at leisure with the very
 best of gold that anywhere might be. This they took with them and great
 store of women's trinkets, which they should wear upon the road. Her
 thought too great the might of Hagen. Of her gold for offerings (7) she
@@ -6050,7 +6051,7 @@ bright eyes the tears fell down, but soon at Etzel's court they lived
 to see much joy. Then came Lord Giselher and Gernot, too, with their
 fellowship, as their courtesie demanded. Fain would they escort their
 dear sister hence; of their knights they took with them full a thousand
-stately men. Then came Orwin and the doughty Gere; Rumolt, the master
+stately men. Then came Ortwin and the doughty Gere; Rumolt, the master
 of the kitchen, must needs be with them, too. They purveyed them night
 quarters as far as the Danube's shore, but Gunther rode no further than
 a little from the town. Ere they fared hence from the Rhine, they had
@@ -6258,13 +6259,13 @@ each lived, the bounty of the king bestowed on all enow.
         version "Atli" is the son of "Budli".  (On this point see
         Mullenhoff, "Zur Geschichte der Nibelungensage", p. 106, and
         Zsfd A., x, 161, and Bleyer, PB. Beit. xxxi, 459, where the
-        names are shown to be identical.
+        names are shown to be identical.)
    (8)  "Medelick" is the modern Molk, or Melk, a town on the Danube
         near the influx of the Bilach.  It lies at the foot of a
         granite cliff on which stands a famous Benedictine abbey.
    (9)  "Astolt" appears only in this passage; nothing else is known
         of him.
-   (10) "Mantern" is situated at the influx of the Flanitz, opposite
+   (10) "Mautern" is situated at the influx of the Flanitz, opposite
         Stein in Lower Austria.
    (11) "Traisem", Traisen, is a tributary of the Danube in Lower
         Austria, emptying near Traismauer.
@@ -6275,7 +6276,7 @@ each lived, the bounty of the king bestowed on all enow.
         possible, however, that the town on the Traisem was
         originally called Zeiselmauer, as the road leading from
         Traismauer to Tulln still bears the name of Zeiselstrasse.
-        See Laehmann, "Anmerkungen", 1272, 3, and Piper, ii, 289,
+        See Lachmann, "Anmerkungen", 1272, 3, and Piper, ii, 289,
         note to str. 1333.
 
 
@@ -6305,7 +6306,7 @@ through her to grief. Before Etzel there rode a retinue, merry and
 noble, courtly and lusty, full four and twenty princes, mighty and of
 lofty birth. They would fain behold their lady and craved naught more.
 Duke Ramung (4) of Wallachia, with seven hundred vassals, galloped up
-before her; like flying birds men saw them ride. Then came Prince Gibeek
+before her; like flying birds men saw them ride. Then came Prince Gibeck
 with lordly bands. The doughty Hornbog, (5) with full a thousand men,
 wheeled from the king away towards the queen. Loudly they shouted after
 the custom of their land. Madly too rode the kinsmen of the Huns. Then
@@ -6331,7 +6332,7 @@ to meet her, where she greeted the noble lording with a kiss in gracious
 wise. She raised her veil and from out the gold beamed forth her rosy
 hue. Many a man stood there who vowed that Lady Helca could not have
 been more fair than she. Close by stood also Bloedel, the brother of the
-king. Him Rudeger, the mighty margrave, bade her kiss and King Gibeek,
+king. Him Rudeger, the mighty margrave, bade her kiss and King Gibeck,
 too. There also stood Sir Dietrich. Twelve of the warriors the king's
 bride kissed. She greeted many knights in other ways.
 
@@ -6395,7 +6396,7 @@ her noble husband by the Rhine; her eyes grew moist, but she hid it full
 well, that none might see it. Great worship had been done her after
 many a grief. Whatever bounty any used, 'twas but a wind to that of
 Dietrich. What Botelung's son had given him, was squandered quite.
-Rudeger's lavish hand did also many wonders. Prince Bleedel of Hungary
+Rudeger's lavish hand did also many wonders. Prince Bloedel of Hungary
 bade empty many traveling chests of their silver and their gold; all
 this was given away. The king's champions were seen to live right
 merrily. Werbel and Swemmel, (10) the minstrels of the king, each gained
@@ -6452,7 +6453,7 @@ king and his good queen.
         for their ferociousness and because they continually invaded
         the surrounding countries, especially Kiev.
    (3)  "Tulna" (M.H.G. "Tulne") is the modern Tulln, a walled town
-        of Lower Austria, seventeen milos northwest of Vienna on the
+        of Lower Austria, seventeen miles northwest of Vienna on the
         Danube.
    (4)  "Ramung and Gibeck" (M.H.G. "Gibeche") appear only in our
         poem, nothing else is known of them.
@@ -7216,7 +7217,7 @@ Rhine again.
 
    ENDNOTES:
    (1)  "a thousand and sixty".  This does not agree with the
-        account in Adventure XXIV, witere we read of a thousand of
+        account in Adventure XXIV, where we read of a thousand of
         Hagen's men, eighty of Dankwart's, and thirty of Folker's.
         The nine thousand foot soldiers mentioned here are a later
         interpolation, as the "Thidreksaga" speaks of only a
@@ -7224,7 +7225,7 @@ Rhine again.
    (2)  "Eastern Frankland", or East Franconia, is the ancient
         province of "Franconia Orientalis", the region to the east
         of the Spessart forest, including the towns of Fulda,
-        Wurzburg and Barnberg.  In "Biterolf" Dietlich journeys
+        Wurzburg and Barnberg.  In "Biterolf" Dietlieb journeys
         through Eastern Frankland to the Danube.
    (3)  "Swanfield" (M.H.G. "Swanevelde") is the ancient province of
         "Sualafeld" between the Rezat and the Danube.
@@ -7299,7 +7300,7 @@ be a-fleeing on the road."
 "This counsel I will gladly follow," quoth Giselher, the knight; "but
 who shall guide the fellowship across the land?"
 
-They answered: "This let Felker do; the valiant minstrel knoweth both
+They answered: "This let Folker do; the valiant minstrel knoweth both
 road and path."
 
 Ere the wish was fully spoken, men saw the doughty fiddler standing
@@ -7312,7 +7313,7 @@ ears. The mighty Else had also heard the tale. Loth it was to both; they
 sent to fetch their heroes, who soon stood ready. In a passing short
 time, as I'll let you hear, one saw riding towards them those who
 had wrought scathe and monstrous wounds in mighty battles. Full seven
-hundred or more were come to Gelfret. When they began to ride after
+hundred or more were come to Gelfrat. When they began to ride after
 their savage foes, their lords did lead them, of a truth. A deal too
 strong they hasted after the valiant strangers; they would avenge their
 wrath. Therefore many of the lordings' friends were later lost.
@@ -7380,7 +7381,7 @@ When those from the Bavarian land gave way and fled, one heard the
 savage blows resound behind them. Those of Troneg chased their foes;
 they were in passing haste, who had not weened to make amends. Then
 spake Dankwart, the knight, in their pursuit: "Let us turn soon on this
-road and let them ride, for they be wot with blood. Haste we to our
+road and let them ride, for they be wet with blood. Haste we to our
 friends, this I advise you of a truth."
 
 When they were come again, where the scathe had happed, Hagen of Troneg
@@ -7568,7 +7569,7 @@ even a single spur. Ye footmen pitch the tents upon the plain. What ye
 lose I'll pay in full. Take off the bridles, let the horses run."
 
 Seldom had host done this for them afore. Therefore the guests made
-merry. When that was done, the lordlings rode away and the footmen laid
+merry. When that was done, the lordings rode away and the footmen laid
 them everywhere upon the grass. Good ease they had; I ween, they never
 fared so gently on the way. The noble margravine with her fair daughter
 was come out before the castle. One saw stand by her side the lovely
@@ -7732,7 +7733,7 @@ you on the road."
 Then his sumpters were laden soon. The host was well beseen with five
 hundred men with steeds and vesture. These he took with him full
 merrily hence to the feasting. Not one of them later ever came alive
-to Bechlaren. With a loving kiss the host parted hence; the same did
+to Bechelaren. With a loving kiss the host parted hence; the same did
 Giselher, as his gentle breeding counseled him. In their arms they
 clasped fair wives. This many a high-born maid must needs bewail in
 later times. On every side they opened the casements, for the host with
@@ -7768,7 +7769,7 @@ friend."
    (1)  "Chaplets", see Adventure 10, note 1.
    (2)  "Of yore", see Adventure 23, note 2.
    (3)  "Nudung" was slain, according to the "Thidreksaga", chap.
-        335, by "Vidg"a (here Wittich, M.H.G. "Witege", the son of
+        335, by "Vidga" (here Wittich, M.H.G. "Witege", the son of
         Wielant, the smith, in the battle of Gronsport.  There,
         chap. 369, he is Gotelind's brother, but in "Biterolf" and
         the "Rosengarten" he is her son.
@@ -8356,7 +8357,7 @@ Certes, they would have fain angered the champions, but that they durst
 not before the noble king. So there was much jostling, but nothing more.
 
 When they had worshiped God and would hence again, many a Hunnish
-warrior horsed him passing soon, At Kriemhild's side stood many a comely
+warrior horsed him passing soon. At Kriemhild's side stood many a comely
 maid, and well seven thousand knights rode with the queen. Kriemhild
 with her ladies sate her down at the easements by the side of the mighty
 Etzel, which was him lief, for they would watch the lusty heroes joust.
@@ -8602,7 +8603,7 @@ abide no longer, but with the heavy stools they dealt many bruises
 through the helmets. How fiercely the stranger youths did ward them!
 Out of the house they drove at last the men-at-arms, but five hundred
 of them, or better, stayed behind there dead. The fellowship was red and
-wot with blood.
+wet with blood.
 
 These grievous tales were told now to Etzel's knights; grim was their
 sorrow, that Bloedel and his men were slain. This Hagen's brother and
@@ -8652,7 +8653,7 @@ man was forced to reel before him, and bold Dankwart gained thereby
 great praise. From either side they sprang upon him, but in truth a many
 of them entered the fray too soon. Before his foes he walked, as doth a
 boar to the woods before the dogs. How might he be more brave? His path
-was ever wot with recking' blood. Certes, no single champion might ever
+was ever wet with reeking blood. Certes, no single champion might ever
 fight better with his foes than he had done. Men now saw Hagen's brother
 go to court in lordly wise. Sewers (4) and cupbearers heard the ring of
 swords, and full many a one cast from his hand the drink and whatever
@@ -8705,7 +8706,7 @@ ye be so red of hue? Ye suffer from wounds great dole, I ween. If there
 be any in the land that hath done you this, 'twill cost his life, and
 the foul fiend save him not."
 
-"Ye see me safe and sound; my weeds alone are wot with blood. This hath
+"Ye see me safe and sound; my weeds alone are wet with blood. This hath
 happed from wounds of other men, of whom I have slain so many a one
 to-day that, had I to swear it, I could not tell the tale."
 
@@ -9070,13 +9071,13 @@ Iring returned scatheless to his liegemen. Then the tidings were brought
 to Kriemhild, of that which he had wrought in strife with Hagen of
 Troneg. For this the queen gan thank him highly. "Now God requite thee,
 Iring, thou peerless hero and good. Thou hast comforted well my heart
-and mind. I see that Hagen's weeds be wot with blood." For very joy
+and mind. I see that Hagen's weeds be wet with blood." For very joy
 Kriemhild herself relieved him of his shield.
 
 "Be not too lavish of your thanks," spake Hagen. "'Twould well befit a
 knight to try again. A valiant man were he, if he then came back alive.
 Little shall the wound profit you, which I have at his bands; for that
-ye have seen the rings wot with blood from my wound doth urge me to the
+ye have seen the rings wet with blood from my wound doth urge me to the
 death of many a man. Now first am I enraged at Hawart's liegeman. Small
 scathe hath Knight Iring done me yet."
 
@@ -9399,7 +9400,7 @@ so mightily that he lay dead at his feet full soon. Through this King
 Etzel's woe grew greater.
 
 "Away, thou arrant coward," cried Rudeger, "forsooth I have enow of
-grief and pain, How dost thou taunt me, that I fight not here? Certes,
+grief and pain. How dost thou taunt me, that I fight not here? Certes,
 I have good cause to hate the strangers, and would have done all in my
 power against them, had I not led the warriors hither. Of a truth I was
 their safeguard to my master's land. Therefore the hand of me, wretched
@@ -9530,7 +9531,7 @@ things I trow of you, than that ye should ever do this deed."
 Now ward you, brave heroes, and ye love your life. King Etzel's wife
 would not release me from mine oath."
 
-"Ye declare this feud too late," spake the highborn king. "Now may God
+"Ye declare this feud too late," spake the high-born king. "Now may God
 requite you, most noble Rudeger, for all the love and fealty that ye
 have shown us, if ye would only act more kindly at the end. I and my
 kinsmen, we ought ever to serve you for the noble gifts ye gave us, when
@@ -9768,7 +9769,7 @@ ask: "What hath here been done?"
 
 At this one among them spake: "Whatever of joy we had in the Hunnish
 land hath passed away. Here lieth Rudeger, slain by the Burgundians'
-hands; and of those who were come with him, not one hatch 'scaped
+hands; and of those who were come with him, not one hath 'scaped
 alive."
 
 Sir Helfrich could never have had a greater dole. Sorely weeping, the
@@ -9910,7 +9911,7 @@ other. Then Knight Wolfwin of Berne did part them--an' he be not a hero,
 never was there one.
 
 With willing hand Gunther, the champion, greeted the heroes of the
-Amelung land. Lord Giselher made many a gleaming helmet red and wot with
+Amelung land. Lord Giselher made many a gleaming helmet red and wet with
 blood. Dankwart, Hagen's brother, a fierce man was he; whatever he had
 done before to Etzel's warriors in strife was as a wind to the fury with
 which bold Aldrian's son now fought. Ritschart (6) and Gerbart, Helfrich
@@ -10005,7 +10006,7 @@ Dietrich, and told him the baleful tale. He saw him sitting sadly, but
 much more of dole the prince now gained. He spied Hildebrand in his
 blood-red hauberk, and asked him tidings, as his fears did prompt him.
 
-"Now tell me, Master Hildebrand, how be ye so wot with your lifeblood?
+"Now tell me, Master Hildebrand, how be ye so wet with your lifeblood?
 Pray who hath done you this? I ween, ye have fought with the strangers
 in the hall. I forbade it you so sorely, that ye should justly have
 avoided it."
@@ -10059,7 +10060,7 @@ Gunther, the high-born king."
 "Alas, dear Wolfhart, and I have lost thee too, then may it well rue me,
 that ever I was born. Siegstab and Wolfwin and Wolfbrand, too! Who then
 shall help me to the Amelung land? Bold Helfrich, hath he, too, been
-slain, and Gerbart and Wiehart? How shall I ever mourn for them in
+slain, and Gerbart and Wichart? How shall I ever mourn for them in
 fitting wise? This day doth forever end my joys. Alas, that none may die
 for very grief!"
 
@@ -10183,7 +10184,7 @@ try, if perchance I can force thee to be my hostage."
 This he wrought with danger. His shield he let fall, great was his
 strength, and clasped Hagen of Troneg in his arms. Thus the brave knight
 was overcome by Dietrich. Noble Gunther gan wail thereat. Dietrich now
-bound Hagen and led him to where he found the highborn queen; into her
+bound Hagen and led him to where he found the high-born queen; into her
 hand he gave the bravest warrior that ever bare a sword. Then merry enow
 she grew after her great dole. For very joy King Etzel's wife bowed low
 before the knight. "May thy heart and body be ever blest. Thou hast well
@@ -10289,7 +10290,7 @@ tale hath here an end. This is the Nibelungs' fall. (2) (3)
         a poem written in short rhyming couplets.  As the name
         indicates, it describes the lamentations of the survivors
         over the dead.  The praises of each warrior are sung and a
-        messenger dispatched to acquaint Gorelind, Uta, and Brunhild
+        messenger dispatched to acquaint Gotelind, Uta, and Brunhild
         with the sad end of their kinsmen.  It closes with
         Dietrich's departure from Etzel's court and his return home.
         Although in one sense a continuation of our poem, the
