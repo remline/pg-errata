@@ -870,7 +870,7 @@ Nicholas began to explain. There were a hundred reasons, it seemed, for
 his coming home empty-handed; and where were his men?
 
 "They are all gone home," said Ralph, getting up and stretching himself.
-"I waited for you It is all over."
+"I waited for you. It is all over."
 
 "You understand," said Nicholas, putting his horse into motion, and
 beginning to explain all over again, "you understand that it had not
@@ -927,7 +927,7 @@ and awed look was in his eyes.
 
 "I think a deal of that," he went on, "though I cannot talk to a
 churchman as I should. I had a terrible time with my Lord of Canterbury
-last year, at Otford. He was not a hunter like this one, and I knew not
+last year, at Oxford. He was not a hunter like this one, and I knew not
 what else to speak of."
 
 Ralph's eyes narrowed with amusement.
@@ -935,7 +935,7 @@ Ralph's eyes narrowed with amusement.
 "What did you say to him?" he asked.
 
 "I forget," said Nicholas, "and I hope my lord did. Mary told me I
-behaved like a fool. But this one is better. I hear. He is at Ashford
+behaved like a fool. But this one is better, I hear. He is at Ashford
 now with his hounds."
 
 They talked a little more about Chris, and Ralph soon saw on which side
@@ -2134,7 +2134,7 @@ sentimental.
 
 "If he had but been wiser;" he said. "I have noticed again and again the
 folly of wise men. There is always clay mixed with gold. I suppose
-nothing but the fire that Fryth denied can purge it out; and my lord's
+nothing but the fire that Frith denied can purge it out; and my lord's
 was ambition."
 
 He wagged his head in solemn reprobation, and Ralph did not know whether
@@ -2168,7 +2168,7 @@ them he held in the palm of his hand, and that, not only in the mass but
 in their minutest details. Ralph had marvelled more than once at the
 minutiæ that he had seen dotted down on the backs of old letters lying
 on his master's table. Matters of Church and State, inextricably
-confused to other eyes, was simple to this man; he understood
+confused to other eyes, were simple to this man; he understood
 intuitively where the key of each situation lay, and dealt with them one
 after another briefly and effectively. And yet with all this no man wore
 an appearance of greater leisure; he would gossip harmlessly for an
@@ -2260,7 +2260,7 @@ misconduct, and who represented himself as starving; Ralph lifted this
 to his nostrils and it smelt powerfully of spirits, and he laid it down
 again, smiling to himself. A torrent of explanation from a schoolmaster
 who had been reported for speaking against the sacrament of the altar,
-calling the saints to witness that he was no follower of Fryth in such
+calling the saints to witness that he was no follower of Frith in such
 detestable heresy. A dignified protest from a Justice of the Peace in
 Kent who had been reproved by Cromwell, through Ralph's agency, for
 acquitting a sturdy beggar, and who begged that he might in future deal
@@ -2725,7 +2725,7 @@ across.
 
 "Beatrice is like one of my own daughters," he said, "and I cannot give
 her better praise than that. She is always here, and always as you saw
-her today. I think she is one of the strongest spirits I know. What did
+her to-day. I think she is one of the strongest spirits I know. What did
 you think of her, Mr. Torridon?"
 
 "She did not talk much," said Ralph.
@@ -3030,7 +3030,7 @@ Ralph sat still a moment longer.
 
 Ralph stood up.
 
-"Mrs Roper has just gone," he said, "you must put up with me, Mrs.
+"Mrs. Roper has just gone," he said, "you must put up with me, Mrs.
 Beatrice."
 
 "Who is it?" said the girl advancing. "Mr. Torridon?"
@@ -3280,7 +3280,7 @@ agreed to pass the attainder against Elizabeth Barton without any more
 talk of justice and the accused's right of defence; and he looked now at
 Ralph with a grim approval.
 
-"I believe you are right, Mr. Torridon. I will think, over it."
+"I believe you are right, Mr. Torridon. I will think over it."
 
 A week later the blow fell.
 
@@ -3514,7 +3514,7 @@ All these events were indications of the course that things were taking
 in regard to greater matters. Parliament had now advanced further than
 ever in the direction of a breach with Rome, and had transferred the
 power of nomination to bishoprics from the Holy See to the Crown, and,
-what was as least as significant, had dealt in a similar manner with the
+what was at least as significant, had dealt in a similar manner with the
 authority over Religious houses.
 
 On the other side, Rome had declared definitely against the annulling of
@@ -3917,7 +3917,7 @@ solemnise him and to clear the confusion.
 
 Old Dom Augustine was taken sick and died, and Chris for the first time
 in his life watched the melting tragedy of death. The old monk had been
-moved from the dortor to the sick-room when the end seemed imminent, and
+moved from the dormitory to the sick-room when the end seemed imminent, and
 one afternoon Chris noticed the little table set outside the door, with
 its candles and crucifix, the basin of cotton-wool, and the other signs
 that the last sacraments were to be administered. He knew little of the
@@ -3989,7 +3989,7 @@ was in a period of abstracted peace, and the rumours of them came to him
 as cries from another planet.
 
 Dom Anthony Marks came into the cloister one day from the guest-house
-with a great excitement in his face,
+with a great excitement in his face.
 
 "Here is news!" he said, joining himself to Chris and another young monk
 with whom the lonely novice was sometimes allowed to walk. "Master
@@ -4035,7 +4035,7 @@ houses had to put up with.
 Chris courteously begged pardon, and went to his lessons wondering what
 in the world all the pother was about.
 
-But such moods of detachment were not continuous they visited him for
+But such moods of detachment were not continuous; they visited him for
 weeks at a time, when his soul was full of consolation, and he was
 amazed that any other life seemed possible to anyone. He seemed to
 himself to have reached the very heart and secret of existence--surely
@@ -4454,7 +4454,7 @@ cantor who seemed always to sing on great days was as distressing as his
 own dog's perversity at Overfield, or the snapping of a bow-string.
 
 When _accidie_ fell upon Chris it seemed as if this particular house was
-entirely ruined by such incidents; the Prior was finickin, the
+entirely ruined by such incidents; the Prior was finikin, the
 junior-master tyrannical, the paints for illumination inferior in
 quality, the straw of his bed peculiarly sharp, the chapter-house
 unnecessarily draughty. And until he learnt from his confessor that this
@@ -5210,7 +5210,7 @@ determined to be kind to his brother.
 Chris was standing in his black monk's habit on the other side of the
 walnut table, beside the fire-place, and made no movement as Ralph came
 forward smiling and composed. His face was thinner than his brother
-remembered it, clean-shaven now, with hollows in the checks, and his
+remembered it, clean-shaven now, with hollows in the cheeks, and his
 eyes were strangely light.
 
 "Why, Chris!" said Ralph, and stopped, astonished at the other's
@@ -5973,7 +5973,7 @@ out-flowing tide.
 
 The air was full of sound; the rattle and dash of oars, men's voices
 coming clear and minute across the water; and as they got out near
-mid-stream the bell of St. Paul's boomed far from away, indescribably
+mid-stream the bell of St. Paul's boomed indescribably
 solemn and melodious; another church took it up, and a chorus of mellow
 voices tolled out the Angelus.
 
@@ -6975,7 +6975,7 @@ Cranmer dropped his hand, but still smiled, turning to Ralph.
 
 "We must be gone, Mr. Torridon. Master Cromwell has very kindly--"
 
-Cromwell who had stood amazed for a moment, turned round at his name.
+Cromwell, who had stood amazed for a moment, turned round at his name.
 
 "Yes," he said to Ralph, "my lord is to come with me. And you will be
 at my house to-morrow."
@@ -7441,7 +7441,7 @@ Layton growled at him.
 "I don't say it's you, man; we shall know better when we have looked
 into your accounts; but I'll have a word to say at Welbeck."
 
-"We are to share a room, Dr. Layton," put in Ralph "At least--"
+"We are to share a room, Dr. Layton," put in Ralph. "At least--"
 
 The doctor turned round again at that, and stormed once more.
 
@@ -7711,7 +7711,7 @@ Ralph began to wonder what he really felt.
 
 The servant was silent, till Ralph glanced at him impatiently.
 
-"It is not for me to have an opinion, sir," said Mr Morris.
+"It is not for me to have an opinion, sir," said Mr. Morris.
 
 Ralph gave a very short laugh.
 
@@ -9283,8 +9283,8 @@ outstretched hands.
 
 "Yes, sir, I will hear you."
 
-"I entreat you, sir, not to tell his Grace. Indeed I am innocent"--his
-voice rose thin and high in his panic--indeed, I did not know it was
+"I entreat you, sir, not to tell his Grace. Indeed, I am innocent"--his
+voice rose thin and high in his panic--"indeed, I did not know it was
 treason that was preached."
 
 "Did not know?" sneered the doctor, leaning forward over the table.
@@ -10910,7 +10910,7 @@ when the prospects of the Priory's own policy came up for discussion.
 Some maintained that they were safe, and that quietness and confidence
 were their best security, and these had the support of the Prior; others
 declared that the best hope lay in selling the possessions of the house
-at a low price to some trustworthy man who would undertake to sell then
+at a low price to some trustworthy man who would undertake to sell them
 back again at only a small profit to himself when the storm was passed.
 
 The Prior rose in wrath when this suggestion was made.
@@ -10984,8 +10984,8 @@ appeared to summon his resolution to speak again, and force out his
 tale. There was plainly more behind too; and his ill-ease seemed to
 deepen on him.
 
-"I wish no one to speak now," he said, "Instead of the Lady-mass
-to-morrow we shall sing mass of the Holy Ghost; and afterwards I shall
+"I wish no one to speak now," he said. "Instead of the Lady-mass
+to-morrow we shall sing mass of the Holy Ghost, and afterwards I shall
 have more to say to you again. I do not desire any to hold speech with
 any other, but to look into their own hearts and seek counsel of God
 there."
@@ -11192,7 +11192,7 @@ He considered these three. To refuse to sign almost inevitably involved
 his ruin, and that not only, and not necessarily, in the worldly sense;
 about that he sincerely believed he did not care; but it would mean his
 exclusion from any concession that the King might afterwards make. He
-certainly would not be allowed under any circumstances, to remain in the
+certainly would not be allowed, under any circumstances, to remain in the
 home of his profession; and if the community was shifted he would not be
 allowed to go with them. As regards the second alternative he wondered
 whether it was possible to shift responsibility in that manner; as
@@ -11823,7 +11823,7 @@ village green; but that was where the whole country side was with them,
 and here it was otherwise.
 
 They talked a few minutes longer, and decided that they would neither
-open nor resist. The monks two were determined to remain there until
+open nor resist. The two monks were determined to remain there until
 they were actually cast out; and then the responsibility would rest on
 other shoulders than theirs.
 
@@ -13792,7 +13792,7 @@ interest in the girl; and he wondered too at the report of Beatrice's
 callousness. It was her damned pride, he assured himself.
 
 Then, one evening as he arrived home from Hackney where he had slept the
-previous night; he found a messenger waiting for him. The letter had not
+previous night, he found a messenger waiting for him. The letter had not
 been sent on to him, as he had not left word where he was going.
 
 It contained a single line from his father.
@@ -13885,7 +13885,7 @@ Sir James stood up, and held out his hands.
 "Ralph has come," he said. "He is gone to his room. Where are the
 others?"
 
-"The priests are at prayers and Meg too," she said, "It is all ready,
+"The priests are at prayers and Meg too," she said. "It is all ready,
 sir. You may go up when you please."
 
 "I must say a word first," said Sir James. "Sit down, Mistress
@@ -14106,7 +14106,7 @@ they had looked into half an hour before were so deep or wide.
 She was out again with Sir James alone in the evening before supper, and
 learnt from him then that Ralph was to stay till Monday.
 
-"He has not spoken to me of returning again," said the old man, "Of
+"He has not spoken to me of returning again," said the old man. "Of
 course it is impossible. Do you not think so, Mistress Atherton."
 
 "It is impossible," she said. "What good would be served?"
@@ -14137,7 +14137,7 @@ said the man, ten minutes before, and Mr. Carleton had probably been
 sent for.
 
 They waited yet five minutes, but the priest did not appear, and they
-sat down. Supper was nearly over before before he came. He came in by
+sat down. Supper was nearly over before he came. He came in by
 the side-door from the court, splashed with mud, and looking pale and
 concerned. He went straight up to Sir James.
 
@@ -14536,7 +14536,7 @@ determination to restore peace and concord.
 
 "On the Word of God," cried the statesman, speaking with extraordinary
 fervour, his eyes kindling as he looked round the silent crowded
-benches, and his left hand playing with his chain, "On the Word of God
+benches, and his left hand playing with his chain. "On the Word of God
 His Highness' princely mind is fixed; on this Word he depends for his
 sole support; and with all his might his Majesty will labour that error
 shall be taken away, and true doctrines be taught to his people,
@@ -15063,10 +15063,10 @@ piercing and sharp to the very centre of his spirit.
 "Listen," she said, "for this is what I came to say. I know what you are
 thinking--I know every thought as if it were my own. You tell yourself
 that it is useless to burn those secrets; that there are ten thousand
-more--enough to cast my lord. I make no answer to that."
+more--enough to cast my lord. I make no answer to that.
 
 "You tell yourself that you can only save yourself by giving them up to
-his enemies. I make no answer to that."
+his enemies. I make no answer to that.
 
 "You tell yourself that it will be known if you destroy them--that you
 will be counted as one of His Highness's enemies. I make no answer to
@@ -15215,7 +15215,7 @@ Margaret nodded.
 Margaret stared at her; the tears were very near her eyes again.
 
 "My darling; I should love to have you in London," went on the other
-caressing her. "Of course I should. But I cannot see that King Henry his
+caressing her. "Of course I should. But I cannot see that King Henry and his
 notions make any difference to your vows. They surely stand. Is it not
 so, my dear?"
 
@@ -15335,7 +15335,7 @@ sorrowful heart was overlaid again with sorrow as he looked at them,
 empty now and desolate where once the praises of God had sounded day and
 night.
 
-They stopped beneath the swinging sign of an inn, with Westminister
+They stopped beneath the swinging sign of an inn, with Westminster
 towers blue and magical before them, to ask for Mistress Atherton's
 house, and were directed a little further along and nearer to the
 water's edge.
@@ -15412,7 +15412,7 @@ triumph over the minister's fall.
 "The dogs!" she said fiercely. "I never thought to say it, but my heart
 goes out to him."
 
-Her spirit was infections. Chris felt a kind of half-joyful recklessness
+Her spirit was infectious. Chris felt a kind of half-joyful recklessness
 tingle in his veins, as he listened to her talk, and watched her black
 eyes hot with indignation and firm with purpose. What if Ralph were
 cast? At least it was for faithfulness--of a kind. Even the father's
@@ -15442,7 +15442,7 @@ and Chris left his father to tell it, and went up with Beatrice to
 arrange about rooms.
 
 Matters were soon settled with the old lady; Nicholas and Chris were to
-sleep in one room, and Sir James in an another. Two servants only could
+sleep in one room, and Sir James in another. Two servants only could
 be accommodated in the house; the rest were to put up at the inn.
 Beatrice went off to give the necessary orders.
 
@@ -16152,7 +16152,7 @@ what we think."
 
 Sir James looked at him, dazed and bewildered.
 
-"God help us! Do you think so, Chris."
+"God help us! Do you think so, Chris?"
 
 "I think so, father. My Lord, you understand all?"
 
@@ -16359,7 +16359,7 @@ Overfield."
 the dissolution of the house."
 
 "I have heard somewhat of his name," mused Henry. "What is it, sir, that
-I have beard of you?"
+I have heard of you?"
 
 "It was perhaps Mr. Ralph Torridon's name that your Grace--" began
 Cranmer.
@@ -16707,7 +16707,7 @@ up it, and above all Ralph was free, and that, not only of his prison,
 but of his hateful work. It had all been done in those few sentences;
 but as yet they could not realise it; and they regarded it, as they
 regarded the ripples at their feet, the lapping wherry, and far-off
-London city, as a kind of dazzling picture which would by and bye be
+London city, as a kind of dazzling picture which would by and by be
 found to move and live.
 
 The lawyer congratulated them, and they smiled back and thanked him.
@@ -16852,7 +16852,7 @@ sake alone, or for Ralph's, that she had looked like that; she had not
 said one word, but he knew what was unspoken.
 
 As they passed under London Bridge he turned a little and looked across
-the boatmen's shoulder at the two as they sat there in the stern, and
+the boatman's shoulder at the two as they sat there in the stern, and
 what he saw confirmed him. The old man had flung an arm along the back
 of the seat, and was leaning a little forward, talking in a low voice,
 his face showing indeed the lines and wrinkles that had deepened more
@@ -17319,10 +17319,10 @@ A minute later he was standing by the bed once more.
 "_Oremus_--" he began, reading rapidly off the book that Beatrice held
 steadily beneath his eyes.
 
-"_Almighty Everlasting God, who through blessed James Thy Apostle, hast
+"_Almighty Everlasting God, Who through blessed James Thy Apostle, hast
 spoken, saying, Is any sick among you, let him call the priests of the
 Church_--" (The lips of the dying man were moving again at the sound of
-the words; was it in protest or in faith?)--" ... _that is what is done
+the words; was it in protest or in faith?)--" ... _that what is done
 without through our ministry, may be wrought within spiritually by Thy
 divine power, and invisibly by Thy healing; through our Lord Jesus
 Christ. Amen._"
@@ -17341,7 +17341,7 @@ rolling head in his two hands; and Chris signed firmly on the eyelids,
 pressing them down and feeling the fluttering beneath his thumb as he
 did so.)
 
-" ... _And His most loving mercy, may the Lord forgive thee whatsoever
+"..._And His most loving mercy, may the Lord forgive thee whatsoever
 thou hast sinned through sight._"
 
 Ah! that was done--dear God! those eyes that had drooped and sneered,
