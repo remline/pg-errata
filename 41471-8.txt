@@ -2358,7 +2358,7 @@ him. "It lies in the Agræ.[33] The night is fine and I shall be glad of
 your company."
 
 Callias cheerfully consented, and was glad that he had done so, so witty
-and varied was his companions conversation.
+and varied was his companion's conversation.
 
 When they had reached their destination his new friend invited him to
 enter. This he declined to do for the hour was late, and he wished to be
@@ -3179,7 +3179,7 @@ Callias simply shook his head.
 
 The steward began again, "Oh! sir--"
 
-Callius interrupted him. "You are an old man, and a friend whom my
+Callias interrupted him. "You are an old man, and a friend whom my
 father and my grandfather trusted, and I would not say a harsh word to
 you. But if you will not leave the room, I must."
 
@@ -3418,7 +3418,7 @@ thrown into a boat, as nearly as possible drowned, and now, when I come
 to myself, I see you. Surely I have a right to ask what it means."
 
 "My dear Callias," replied Hippocles, "I have always tried to be your
-friend, as it was my priviledge to be your father's before you. You will
+friend, as it was my privilege to be your father's before you. You will
 allow so much?"
 
 "Certainly," said the young man. "I shall never forget how much I owe
@@ -3448,7 +3448,7 @@ fail to observe that Hermione was pale and agitated. The frank
 friendliness of her old manner, which, blended as it had been with a
 perfect maidenly modesty, had been inexpressibly charming, had
 disappeared. She was now timid and hesitating. She could not lift her
-eyes when she acknowleged his greeting. He could even see that she
+eyes when she acknowledged his greeting. He could even see that she
 trembled.
 
 The young man stood astonished and perplexed. What was this strange
@@ -3774,7 +3774,7 @@ retired to rest.
 be here alone."
 
 The chamber to which he led the way was little like what one would have
-expected to find in free-booter's stronghold, for really the castle of
+expected to find in a free-booter's stronghold, for really the castle of
 Bisanthe was more of that than anything else. Art and letters were amply
 represented in it. On one wall hung a panel painting[48] by Polygnotus,
 a masterly composition, of that serenity, that ethical meaning, as the
@@ -3857,7 +3857,7 @@ line. The generals gave me the prize for valor, when they ought, by
 right, to have given it to him. But they took account of my family and
 rank, and curiously enough, he was just as anxious as they were that I
 should have it and not he. Then at Delium, again, when the day went
-against us, and the army was in full retreat. I was in the cavalry; he
+against us, and the army was in full retreat, I was in the cavalry; he
 was serving as a foot soldier. Our men would not keep together, and he
 and Laches--he was killed, afterward, at Mantinea--were making the best
 of their way back. I rode up to them and told them to keep up their
@@ -5197,7 +5197,7 @@ you shall not want my good word, but I can do nothing more. You must
 speak to her yourself. That is, I think, what few fathers in Greece
 would tell a suitor to do. But then Hermione is not as other maidens."
 
-Callias passed a restless night, and was glad, to make his way into the
+Callias passed a restless night, and was glad to make his way into the
 open air when the first streaks of dawn appeared on the Euboean hills,
 which were in full view from the house. He shrank from meeting Hermione
 till he could meet her alone, and ask the momentous question which was
@@ -5490,7 +5490,7 @@ The merchant had added a postscript. "I leave this for your
 consideration. Alcibiades has a certain knack of success. But the risk
 will be great."
 
-"What is risk to me?" said Callias, "I can't spend my life idling here."
+"What is risk to me?" said Callias. "I can't spend my life idling here."
 
 The next day he left the island, taking his passage in a merchant ship
 which, by great good luck was just starting for Smyrna. Smyrna was
@@ -5858,7 +5858,7 @@ now.[65] What he intended to do I have done. I saved Syracuse as he
 saved her from Athens; and I dare say that in a year or two my grateful
 countrymen would have banished me as they banished him. Only I have been
 beforehand with them. So much for politics; now let us talk of something
-more pleasant and more profitable."
+more pleasant and more profitable.
 
 "Tell me now, do you know one Socrates in your city, a very wise man
 they tell me?"
@@ -7989,7 +7989,7 @@ chance of having to answer for themselves before them, but with a strong
 foreign garrison behind them. We had that state of things in Athens for
 more than half a year. One might almost say that it was like a city
 taken by storm. No man's life was safe unless he was willing to do the
-bidding of the Tyrants--the "Thirty Tyrants" was the nickname of the men
+bidding of the Tyrants--the 'Thirty Tyrants' was the nickname of the men
 that were in power in those days. Who would have thought that Theramenes
 would ever have been regretted by honest men? Yet it was so. He thought
 his colleagues were going too far, and opposed them. He was carrying the
@@ -9350,7 +9350,7 @@ yet for anything decisive or public. We are allies with the
 Lacedaemonians, and can't venture to quarrel with them. But this is a
 matter at which they cannot take offence, but which will most certainly
 please the Great King. He has not forgotten the Cyrus business, you may
-depend upon it, and it will delight him to hear of any, who had a part
+depend upon it, and it will delight him to hear of any who had a part
 in it suffering for their act. That is why we are to be banished. It is
 disgraceful, I allow, to find a great city banishing its citizens in
 order to curry favor with the barbarians; but it is a fact, and we must
