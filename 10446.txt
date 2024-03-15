@@ -131,7 +131,7 @@ distance looked upon the foe as though he might, in truth, be the
 friend; but when they have been put face on to him, and when their
 officers have dashed to the front with a wave and halloo, those rebel
 hearts have softened and their gallant Celtic blood has boiled with the
-mad Joy of the fight, until the slower Britons have marvelled that they
+mad joy of the fight, until the slower Britons have marvelled that they
 ever could have doubted the loyalty of their Irish comrades.  So it
 would be again, according to the officers, and so it would not be if
 Dennis Conolly and a few others could have their way.
@@ -140,7 +140,7 @@ It was a March morning upon the eastern fringe of the Nubian desert.
 The sun had not yet risen, but a tinge of pink flushed up as far as the
 cloudless zenith, and the long strip of sea lay like a rosy ribbon
 across the horizon.  From the coast inland stretched dreary sand-plains,
-dotted over with thick clumps at mimosa scrub and mottled patches of
+dotted over with thick clumps of mimosa scrub and mottled patches of
 thorny bush.  No tree broke the monotony of that vast desert.  The dull,
 dusty hue of the thickets, and the yellow glare of the sand, were the
 only colours, save at one point, where, from a distance, it seemed that
@@ -280,8 +280,8 @@ when it was their own brothers in faith at whom they aimed!"
 A chieftain reined his horse back, and thrust a blood-smeared sword into
 its sheath.  Beside him two Egyptian artillerymen with their throats cut
 were sobbing out their lives upon the ground.  "Who lays the gun this
-time?" asked the fierce chief, glaring at the frightened gunners."
-Here, thou black-browed child of Shaitan, aim, and aim for thy life."
+time?" asked the fierce chief, glaring at the frightened gunners.
+"Here, thou black-browed child of Shaitan, aim, and aim for thy life."
 
 It may have been chance, or it may have been skill, but the third and
 fourth shells burst over the square.  Sheik Kadra smiled grimly and
@@ -393,7 +393,7 @@ come opposite to the mouth of the gully, in which, screened by scrub and
 boulders, 3,000 chosen dervishes, under Hamid Wad Hussein, of the
 Baggaras, were crouching.  Tat, tat, tat, went the rifles of three
 mounted infantrymen in front of the left shoulder of the square, and an
-instant later they wore spurring it for their lives, crouching over the
+instant later they were spurring it for their lives, crouching over the
 manes of their horses, and pelting over the sandhills with thirty or
 forty galloping chieftains at their heels.  Rocks and scrub and mimosa
 swarmed suddenly into life.  Rushing black figures came and went in the
@@ -524,7 +524,7 @@ The words alone might have had little effect on the old moonlighter.
 It is possible that, in his scheming brain, he had already planned how
 he was to club his Irish together and lead them to the sea.  But at that
 moment the Arabs broke through the screen of camels which had fended
-them off.  There was a Struggle, a screaming, a mule rolled over, a
+them off.  There was a struggle, a screaming, a mule rolled over, a
 wounded man sprang up in a cacolet with a spear through him, and then
 through the narrow gap surged a stream of naked savages, mad with
 battle, drunk with slaughter, spotted and splashed with blood--blood
@@ -665,7 +665,7 @@ by the Treaty of Utrecht, the vast number of privateers which had been
 fitted out by the contending parties found their occupation gone.  Some
 took to the more peaceful but less lucrative ways of ordinary commerce,
 others were absorbed into the fishing fleets, and a few of the more
-reckless hoisted the Jolly Rodger at the mizzen, and the bloody flag at
+reckless hoisted the Jolly Rodger at the mizzen and the bloody flag at
 the main, declaring a private war upon their own account against the
 whole human race.
 
@@ -875,7 +875,7 @@ querulous voice for the captain.
 
 There was a fresh westerly wind, so by the time the sun was fairly
 through the morning haze, the ship was hull down from the islands.
-The decrepit Governor still limpid the deck, with one guiding hand upon
+The decrepit Governor still limped the deck, with one guiding hand upon
 the quarter rail.
 
 "You are on Government service now, captain," said he.  "They are
@@ -1043,8 +1043,8 @@ scattered cards in front of him, and he burst into his high, neighing
 laugh.  "Captain Sharkey is the name, gentlemen," said he, "and this is
 Roaring Ned Galloway, the quartermaster of the _Happy Delivery_.
 We made it hot, and so they marooned us: me on a dry Tortuga cay, and
-him in an oarless boat.  You dogs--you poor, fond, water-hearted dogs--
-we hold you at the end of our pistols!"
+him in an oarless boat.  You dogs--you poor, fond, water-hearted
+dogs--we hold you at the end of our pistols!"
 
 "You may shoot, or you may not!" cried Scarrow, striking his hand upon
 the breast of his frieze jacket.  "If it's my last breath, Sharkey, I
@@ -1078,7 +1078,7 @@ with such of his things as I had need of, and a pair of glasses to hide
 these tell-tale eyes of mine, and I have ruffled it as a governor
 should.  Now, Ned, you can get to work upon them."
 
-"Help! help! Watch ahoy!" yelled the mate;  but the butt of the pirate's
+"Help! Help! Watch ahoy!" yelled the mate;  but the butt of the pirate's
 pistol crashed down on his head, and he dropped like a pithed ox.
 Scarrow rushed for the door, but the sentinel clapped his hand over his
 mouth, and threw his other arm round his waist.
@@ -1335,7 +1335,7 @@ out, and to take any steps he liked in order to further the object which
 he had in view.  Sir Edward was not very sanguine, for many attempts had
 been made upon Sharkey, and their results had shown that he was as
 cunning as he was ruthless.  But this gaunt Puritan with the evil record
-was cunning aid ruthless also.  The contest of wits between two such men
+was cunning and ruthless also.  The contest of wits between two such men
 as Sharkey and Craddock appealed to the Governor's acute sense of sport,
 and though he was inwardly convinced that the chances were against him,
 he backed his man with the same loyalty which he would have shown to his
@@ -1512,7 +1512,7 @@ quartermaster, had already drawn his hanger to cripple him, when Sharkey
 came hurrying from his cabin with an eager face.  "We can do better with
 the hound!" he cried.  "Sink me if it is not a rare plan.  Throw him
 into the sail-room with the irons on, and do you come here,
-quarter-master, that I may tell you what I have in my mind."
+quartermaster, that I may tell you what I have in my mind."
 
 So Craddock, bruised and wounded in soul and body, was thrown into the
 dark sail-room, so fettered that he could not stir hand or foot, but his
@@ -1581,7 +1581,7 @@ from choice he would, at least, never be one by compulsion.
 
 On the second morning Craddock became aware that sail had been reduced
 in the vessel, and that she was tacking slowly, with a light breeze on
-her beam.  The varying slope of the sail room and the sounds from the
+her beam.  The varying slope of the sail-room and the sounds from the
 deck told his practised senses exactly what she was doing.  The short
 reaches showed him that she was manoeuvring near shore, and making for
 some definite point.  If so, she must have reached Jamaica.  But what
@@ -1906,7 +1906,7 @@ sympathy for those who were of the same trade as himself.  Copley Banks
 found him seated astride upon one of the after guns, with his New
 England quartermaster, Ned Galloway, and a crowd of roaring ruffians
 standing about him.  Yet none of them roared with quite such assurance
-when Sharkey's pale face and filmy blue eyes were tuned upon him.
+when Sharkey's pale face and filmy blue eyes were turned upon him.
 He was in his shirt-sleeves, with his cambric frills breaking through
 his open red satin long-flapped vest.  The scorching sun seemed to have
 no power upon his fleshless frame, for he wore a low fur cap, as though
@@ -1968,7 +1968,7 @@ fare was of the best, and after supper five of them drank deeply
 together.  There were the two captains,  Birthmark Sweetlocks, Ned
 Galloway, and Israel Martin, the old buccaneers-man.  To wait upon them
 was the dumb steward, whose head Sharkey split with a glass, because he
-had been too slow in the filling of it.  The quarter-master has slipped
+had been too slow in the filling of it.  The quartermaster has slipped
 Sharkey's pistols away from him, for it was an old joke with him to fire
 them cross-handed under the table and see who was the luckiest man.
 It was a pleasantry which had cost his boatswain his leg, so now, when
@@ -2113,7 +2113,7 @@ last that was ever seen of Sharkey.
 
 There was a skiff alongside, and in it Copley Banks and the dumb steward
 made their way to the beach, and looked back upon the brig riding in the
-moon-light just outside the shadow of the palm trees.  They waited and
+moonlight just outside the shadow of the palm trees.  They waited and
 waited watching that dim light which shone through the stem port.  And
 then at last there came the dull thud of a gun, and an instant later the
 shattering crash of an explosion.  The long, sleek, black barque, the
@@ -2205,7 +2205,7 @@ walked with offended dignity out of the surgery.
 The student smiled bitterly, and turned to his work of making up the
 morning prescriptions.  It was poor and unworthy work--work which any
 weakling might have done as well, and this was a man of exceptional
-nerve and sinew.  But, such as it was, it brought him his board and One
+nerve and sinew.  But, such as it was, it brought him his board and one
 pound a week--enough to help him during the summer months and let him
 save a few pounds towards his winter keep.  But those class fees!
 Where were they to come from?  He could not save them out of his scanty
@@ -2216,8 +2216,8 @@ to find a customer for that?  But the ways of Fate are strange, and his
 customer was at hand.
 
 "Look y'ere!" said a voice at the door.  Montgomery looked up, for the
-voice was a loud and rasping one.  A young man stood at the entrance--
-a stocky, bull-necked young miner, in tweed Sunday clothes and an
+voice was a loud and rasping one.  A young man stood at the
+entrance--a stocky, bull-necked young miner, in tweed Sunday clothes and an
 aggressive neck-tie.  He was a sinister-looking figure, with dark,
 insolent eyes, and the jaw and throat of a bulldog.
 
@@ -2409,7 +2409,7 @@ The publican and horse-breaker felt it with an air of reverence.  "Good
 lad!  He'll do yet!" cried Purvis.
 
 "Gentlemen," said Montgomery, "I think that you will acknowledge that I
-have boon very patient with you.  I have listened to all that you have
+have been very patient with you.  I have listened to all that you have
 to say about my personal appearance, and now I must really beg that you
 will have the goodness to tell me what is the matter."
 
@@ -2424,7 +2424,7 @@ bein' also a backer and one o' the committee, thinks the other way."
 "I thought him too light built, and I think so now," said the
 horse-breaker, still tapping his prominent teeth with the metal head of
 his riding-whip.  "But happen he may pull through, and he's a
-fine-made, buirdly young chap, so if you mean to back him, Mr. Wilson--
+fine-made, buirdly young chap, so if you mean to back him, Mr. Wilson----"
 
 "Which I do."
 
@@ -2623,7 +2623,7 @@ his name's as well known in the West Riding as the winner o' t' Derby.
 But Lor,' sir,"--here he stopped and rummaged among a heap of papers.
 "They are makin' a fuss about him on account o' his fight wi' Ted
 Barton, and so the _Croxley Herald_ has his life an' record, an' here it
-is, an' thou canst read it for thysel'"
+is, an' thou canst read it for thysel'."
 
 The sheet of the paper which he held up was a lake of print around an
 islet of illustration.  The latter was a coarse wood-cut of a pugilist's
@@ -2868,7 +2868,7 @@ him and exulted.
 and fit to fight for your life."
 
 "Happen he's a trifle on the fine side," said the publican.  "Runs a bit
-light at the loins, to my way of thinking'."
+light at the loins, to my way of thinkin'."
 
 "What weight to-day?"
 
@@ -3126,7 +3126,7 @@ factory.  The seats, as a huge placard announced, were five shillings,
 three shillings, and a shilling, with half-price for dogs.  The takings,
 deducting expenses, were to go to the winner, and it was already evident
 that a larger stake than a hundred pounds was in question.  A babel of
-voices rose from the door, The workers wished to bring their dogs in
+voices rose from the door. The workers wished to bring their dogs in
 free.  The men scuffled.  The dogs barked.  The crowd was  a whirling,
 eddying pool surging with a roar up to the narrow cleft which was its
 only outlet.
@@ -3140,11 +3140,11 @@ grimy walls, where pictures and almanacs had once hung.  Worn linoleum
 covered the floor, but there was no furniture save some benches and a
 deal table with an ewer and a basin upon it.  Two of the corners were
 curtained off.  In the middle of the room was a weighing-chair.
-A hugely fat man, with a salmon tie and a blue waistcoat with birds'-eye
+A hugely fat man, with a salmon tie and a blue waistcoat with bird's-eye
 spots, came bustling up to them.  It was Armitage, the butcher and
 grazier, well known for miles round as a warm man, and the most liberal
 patron of sport in the Riding.  "Well, well," he grunted, in a thick,
-fussy, wheezy voice, "you have come, then.  Got your man?  Got your man?
+fussy, wheezy voice, "you have come, then.  Got your man?  Got your man?"
 
 "Here he is, fit and well.  Mr. Montgomery, let me present you to Mr.
 Armitage."
@@ -3181,7 +3181,7 @@ in the window.
 
 She glanced contemptuously at the young athlete.  "It's but a poor
 kindness thou dost him to put a thread-paper yoong gentleman like yon
-against a mon as is a mon.  Why, my Jock would throttle him wi' one bond
+against a mon as is a mon.  Why, my Jock would throttle him wi' one hond
 lashed behind him."
 
 "Happen he may--happen not," said Barton.  "I have but twa pund in the
@@ -3190,7 +3190,7 @@ Maister, and rarely fine he do look."
 
 The prize-fighter had come out from his curtain, a squat, formidable
 figure, monstrous in chest and arms, limping slightly on his distorted
-leg.  His skin bad none of the freshness and clearness of Montgomery's,
+leg.  His skin had none of the freshness and clearness of Montgomery's,
 but was dusky and mottled, with one huge mole amid the mat of tangled
 black hair which thatched his mighty breast.  His weight bore no
 relation to his strength, for those huge shoulders and great arms, with
@@ -3199,7 +3199,7 @@ threw his cap into a ring.  But his loins and legs were slight in
 proportion.  Montgomery, on the other hand, was as symmetrical as a
 Greek statue.  It would be an encounter between a man who was specially
 fitted for one sport, and one who was equally capable of any.  The two
-looked curiously at each other: a bull-dog, and a high-bred clean-limbed
+looked curiously at each other: a bulldog, and a high-bred clean-limbed
 terrier, each full of spirit.
 
 "How do you do?"
@@ -3215,7 +3215,7 @@ for't."
 both of them!--prime lads!--hard meat an' good bone.  There's no
 ill-feelin'."
 
-"If he downs me, Gawd bless him!" said the Master,
+"If he downs me, Gawd bless him!" said the Master.
 
 "An' if we down him, Gawd help him!" interrupted the woman.
 
@@ -3227,8 +3227,8 @@ to do, Jock," said she.  "Get quit o' this gradely man afore thou turn
 on me."
 
 The lovers' quarrel was interrupted by the entrance of a newcomer, a
-gentleman with a fur-collared overcoat and a very shiny top-hat--
-a top-hat of a degree of glossiness which is seldom seen five miles from
+gentleman with a fur-collared overcoat and a very shiny top-hat--a
+top-hat of a degree of glossiness which is seldom seen five miles from
 Hyde Park.  This hat he wore at the extreme back of his head, so that
 the lower surface of the brim made a kind of frame for his high, bald
 forehead, his, keen eyes, his rugged and yet kindly face.  He bustled in
@@ -3255,8 +3255,8 @@ ready?  Men weighed?"
 
 "Ah! Just as well that I should see it done.  Seen you before, Craggs.
 Saw you fight your second battle against Willox.  You had beaten him
-once, but he came back on you.  What does the indicator say--163lbs.--
-two off for the kit--161lbs.  Now, my lad, you jump.  My goodness, what
+once, but he came back on you.  What does the indicator say--163lbs.--two
+off for the kit--161lbs.  Now, my lad, you jump.  My goodness, what
 colours are you wearing?"
 
 "The Anonymi Cricket Club."
@@ -3310,7 +3310,7 @@ the inspector, impassively.
 
 "But you know me well."
 
-"If you was a dook or even a judge it would be all' the same," said the
+"If you was a dook or even a judge it would be all the same," said the
 inspector.  "It's the law, and there's an end.  I'll not take upon
 myself to stop the fight, seeing that gloves are to be used, but I'll
 take the names of all concerned.  Silas Craggs, Robert Montgomery,
@@ -3362,7 +3362,7 @@ them--three locals and two all the way from London.  But where was the
 all-important referee?  There was no sign of him, unless he were in the
 centre of that angry swirl of men near the door.
 
-Mr. Stapleton had stopped to examine the gloves which wore to be used,
+Mr. Stapleton had stopped to examine the gloves which were to be used,
 and entered the building after the combatants.  He had started to come
 down that narrow lane with the human walls which led to the ring.
 But already it had gone abroad that the Wilson champion was a gentleman,
@@ -3447,7 +3447,7 @@ He then turned from one combatant to the other, with a wave of his hand.
 
 A great hush fell over the huge assembly.  Even the dogs stopped
 yapping; one might have thought that the monstrous room was empty.
-The two men had stood up, the small white gloves over their hands
+The two men had stood up, the small white gloves over their hands.
 They advanced from their corners and shook hands, Montgomery gravely,
 Craggs with a smile.  Then they fell into position.  The crowd gave a
 long sigh--the intake of a thousand excited breaths.  The referee tilted
@@ -3512,7 +3512,7 @@ led instantly, and got his right home with a sounding smack upon the
 master's forehead.  There was a shout from the colliers, and "Silence!
 Order!" from the referee.  Montgomery avoided the counter, and scored
 with his left.  Fresh applause, and the referee upon his feet in
-indignation..
+indignation.
 
 "No comments, gentlemen, if _you_ please, during the rounds."
 
@@ -3809,8 +3809,8 @@ control, broke from the crowded benches as the giant went down.  He lay
 upon his back, his knees a little drawn up, his huge chest panting.
 He twitched and shook, but could not move.  His feet pawed convulsively
 once or twice.  It was no use.  He was done.  "Eight--nine--ten!" said
-the time-keeper, and the roar of a thousand voices, with a deafening
-clap like the broad-side of a ship, told that the Master of Croxley was
+the timekeeper, and the roar of a thousand voices, with a deafening
+clap like the broadside of a ship, told that the Master of Croxley was
 the Master no more.
 
 Montgomery stood half dazed, looking down at the huge, prostrate figure.
@@ -3837,7 +3837,7 @@ since my second fight wi' Billy Edwards in '89. Happen thou might think
 o' goin' further wi' this business.  If thou dost, and want a trainer,
 there's not much inside t' ropes as I don't know.  Or happen thou might
 like to try it wi' me old style and bare knuckles.  Thou hast but to
-write to t' ironworks to find me."
+write to t' iron-works to find me."
 
 But Montgomery disclaimed any such ambition.  A canvas bag with his
 share--190 sovereigns--was handed to him, of which he gave ten to the
@@ -4148,8 +4148,8 @@ Captain Baumgarten rasped out a German oath.  He had had his journey for
 nothing, then.  The man's answers were only too likely to be true.  It
 was what he might have expected.  But at least he would search the house
 and make sure.  Leaving a picket at the front door and another at the
-back, the sergeant and he drove the trembling butler in front of them--
-his shaking candle sending strange, flickering shadows over the old
+back, the sergeant and he drove the trembling butler in front of
+them--his shaking candle sending strange, flickering shadows over the old
 tapestries and the low, oak-raftered ceilings.  They searched the whole
 house, from the huge stone-flagged kitchen below to the dining-hall on
 the second floor, with its gallery for musicians, and its panelling
@@ -4251,7 +4251,7 @@ which is honeycombed with secret passages.  You will be amused to hear
 that forty men were watching you at your supper.  Ah!  what then?"
 
 Captain Baumgarten had taken a step forward  with clenched fists.
-The Frenchman held up tho revolver which he grasped in his right hand,
+The Frenchman held up the revolver which he grasped in his right hand,
 while with the left he hurled the German back into his chair.
 
 "Pray keep your seat," said he.  "You have no cause to trouble about
@@ -4260,7 +4260,7 @@ these stone floors how little one can hear what goes on beneath.
 You have been relieved of your command, and have now only to think of
 yourself.  May I ask what your  name is?"
 
-"I am Captain Baumgarten of, the 24th Posen Regiment."
+"I am Captain Baumgarten, of the 24th Posen Regiment."
 
 "Your French is excellent, though you incline, like most of your
 countrymen, to turn the 'p' into a 'b.'  I have been amused to hear them
@@ -4332,7 +4332,7 @@ prisoners were moved next day across the Rhine into Ettlingen.
 They were not equally fortunate there.  The officer who guarded them was
 a ruffian and a villain, Captain Baumgarten.  He took a pleasure in
 humiliating and ill-treating the brave men who had fallen into his
-power.  That night upon my son answering fiercely back to some taunt of
+power.  That night, upon my son answering fiercely back to some taunt of
 his, he struck him in the eye, like this!"
 
 The crash of the blow rang through the hall.  The German's face fell
@@ -4923,7 +4923,7 @@ nothing happened, we each took a step forward and peeped in.  The box
 was empty.
 
 Not quite empty either, for in one corner was lying an old yellow
-candle-stick, elaborately engraved, which appeared to be as old as the
+candlestick, elaborately engraved, which appeared to be as old as the
 box itself.  Its rich yellow tone and artistic shape suggested that it
 was an object of value.  For the rest there was nothing more weighty or
 valuable than dust in the old striped treasure-chest.
@@ -5098,7 +5098,7 @@ figure at a time.  Dodds was interested, for he knew exactly what the
 man was doing.  He was working out a cipher.  Dodds had often done it
 himself.  And then suddenly the little man turned very pale, as if the
 full purport of the message had been a shock to him.  Dodds had done
-that also, and his sympathies were all with his neighbours.  Then the
+that also, and his sympathies were all with his neighbour.  Then the
 stranger rose, and, leaving his breakfast untasted, he walked out of the
 room.
 
@@ -5202,9 +5202,9 @@ It is not to buy young horses, however, that the great dealers come to
 Ireland, and the real business of the fair commenced when the four and
 five-year-olds were reached; the full-grown, perfect horses, at their
 prime, and ready for any work or any fatigue.  Seventy magnificent
-creatures had been brought down by a single breeder, a comfortable-
-looking, keen-eyed, ruddy-cheeked gentleman who stood beside the
-sales-man and whispered cautions and precepts into his ear.
+creatures had been brought down by a single breeder, a comfortable-looking,
+keen-eyed, ruddy-cheeked gentleman who stood beside the
+salesman and whispered cautions and precepts into his ear.
 
 "That's Flynn of Kildare," said Dodds's informant.  "Jack Flynn has
 brought down that string of horses, and the other large string over
@@ -5525,7 +5525,7 @@ It all depended upon Worlington Dodds's information.  What could he
 possibly have found out at Dunsloe?
 
 And then suddenly he saw a newspaper boy fasten a poster upon a
-lamp-post, and a little crowd had gathered round it in an instant
+lamp-post, and a little crowd had gathered round it in an instant.
 One of them waved his hat in the air; another shouted to a friend across
 the street.  Warner hurried up and caught a glimpse of the poster
 between two craning heads--
@@ -5548,7 +5548,7 @@ hounds and a huntsman on foot, while every rider in the field had been
 pounded.  As the port circulated the runs became longer and more
 apocryphal, until we had the whips inquiring their way and failing to
 understand the dialect of the people who answered them.  The foxes, too,
-became mere eccentric, and we had foxes up pollard willows, foxes which
+became more eccentric, and we had foxes up pollard willows, foxes which
 were dragged by the tail out of horses' mangers, and foxes which had
 raced through an open front door and gone to ground in a lady's
 bonnet-box.  The master had told one or two tall reminiscences, and when
@@ -5621,11 +5621,11 @@ symptoms of which I warn you.'
 "'You think I shall be safe by evening?'
 
 "'If you drink nothing during the day, and have no nervous symptoms
-before evening, I think you may consider yourself safe," the doctor
+before evening, I think you may consider yourself safe,' the doctor
 answered.  A little fright would, he thought, do his patient good, so he
 made the most of the matter.
 
-"'What symptoms may I expect?' asked Danebury.
+"'What symptoms may I expect?' asked Danbury.
 
 "'It generally takes the form of optical delusions.'
 
@@ -5934,7 +5934,7 @@ He had heard hounds run into foxes many times before, but he had never
 heard such sounds as these.  They were not the cries of triumph, but of
 fear.  Every now and then came a shrill yelp of mortal agony.  Holding
 his breath, he ran on until he broke through the interlacing branches,
-and found himself in a little, clearing with the hounds all crowding
+and found himself in a little clearing with the hounds all crowding
 round a patch of tangled bramble at the further end.
 
 "When he first caught sight of them the hounds were standing in a
@@ -6224,7 +6224,7 @@ hours, by the look of her.  Hullo, Merryweather, hullo!"
 
 The engineer, a small, compact man with a pointed red beard, had made as
 though he would ride past their camp without word or halt.  Now he
-swerved, and easing his pony down to a canter, he headed her to-wards
+swerved, and easing his pony down to a canter, he headed her towards
 them.
 
 "For God's sake, a drink!" he croaked.  "My tongue is stuck to the roof
@@ -6412,19 +6412,21 @@ seniors burst out laughing.
 "No, no, the real high-bred trotter--the kind of beast the dervishes
 ride when they make their lightning raids."
 
-"Faster than a galloping horse?"  "Well, it tires a horse down.  It goes
+"Faster than a galloping horse?"
+
+"Well, it tires a horse down.  It goes
 the same gait all the way, and it wants neither halt nor drink, and it
 takes rough ground much better than a horse.  They used to have long
-distance races at Haifa, and the camel always won at thirty."
+distance races at Halfa, and the camel always won at thirty."
 
 "Still, we need not reproach ourselves, Scott, for we are not very
-likely to have to carry a thirty-mile message, they will have the field
+likely to have to carry a thirty-mile message. They will have the field
 telegraph next week."
 
 "Quite so.  But at the present moment--"
 
 "I know, my dear chap; but there is no motion of urgency before the
-house.  Load baggles at five o'clock; so you have Just three hours
+house.  Load baggles at five o'clock; so you have just three hours
 clear.  Any sign of the evening pennies?"
 
 Mortimer swept the northern horizon with his binoculars.  "Not in sight
@@ -6576,7 +6578,7 @@ mosquito off me!"
 Khartoum."
 
 "Never mind, my boy, it all goes to make copy.  I can see the
-headlines--'Raid on Communications'; 'Murder of British Engineer':
+headlines--'Raid on Communications': 'Murder of British Engineer':
 'Press Column Attacked.'  Won't it be ripping?"
 
 "I wonder what the next line will be," said Anerley.
@@ -7854,9 +7856,13 @@ understand?"
 "Yes, sir."
 
 "I have no doubt that your colonel will be glad to see you fulfilling
-your regimental duties again." Hilary Joyce's heart was too heavy for
-words.  He was silent.  "I will let you know my final decision to-morrow
-morning."  Joyce saluted and turned upon his heel."
+your regimental duties again."
+
+Hilary Joyce's heart was too heavy for words.  He was silent.
+
+"I will let you know my final decision to-morrow morning."
+
+Joyce saluted and turned upon his heel.
 
 "You can sleep upon that, you beauty, and a good night's rest may it
 give you!"
@@ -7907,7 +7913,7 @@ the evening, and going when he could find no one to talk with.  It took
 some self-restraint to listen to the old diplomatist, for his stories
 were beyond all belief, and yet he was quick at detecting the shadow of
 a smile or the slightest little raising of the eyebrows.  Then his huge,
-rounded back would straighten itself, his bull-dog chin would project,
+rounded back would straighten itself, his bulldog chin would project,
 and his r's would burr like a kettledrum.  When he got as far as, "Ah,
 monsieur r-r-r-rit!" or "Vous ne me cr-r-r-royez pas donc!" it was quite
 time to remember that you had a ticket for the opera.
@@ -8050,7 +8056,7 @@ possible that Milord Hawkesbury had received it himself just as we had.
 He lived in Harley Street, and there it was that the treaty was to be
 finally signed that night at eight.  I entreated Monsieur Otto to drink
 two glasses of Burgundy before he went, for I feared lest his haggard
-face and trembling, hands should rouse suspicion in the English
+face and trembling hands should rouse suspicion in the English
 minister.
 
 "Well, we went round together in one of the Embassy's carriages about
@@ -8096,7 +8102,7 @@ gave him a guinea.  He understood that it was a special service.
 "'All right, master,' said he, turning his slow eyes upon me without a
 trace of excitement or curiosity.
 
-"' If I enter your coach  with another gentleman, you will drive up and
+"'If I enter your coach  with another gentleman, you will drive up and
 down Harley Street, and take no orders from anyone but me.  When I get
 out, you will carry the other gentleman to Watier's Club, in Bruton
 Street.'
@@ -8157,7 +8163,7 @@ instruction, it turned and began to go up again.
 
 "'Hullo!' he cried.  'What's this?'
 
-"'What then?  'I asked.
+"'What then?'  I asked.
 
 "'We are driving back.  Where is Lord Hawkesbury?'
 
@@ -8189,7 +8195,7 @@ mouth partly free from the cravat.
 
 "'What do you want with me?'
 
-"It is a bet.'
+"'It is a bet.'
 
 "'A bet?  What d'you mean?  Do you understand that I am on the
 Government service, and that you will see the inside of a gaol for
@@ -8222,9 +8228,9 @@ his cravat.
 "'A little patience,' said I, 'and it will soon be over.  I should like
 to recite the chapter which would be of most interest to yourself.  You
 will confess that I am trying to make things as pleasant as I can for
-you?"
+you?'
 
-He slipped his mouth free again.
+"He slipped his mouth free again.
 
 "'Quick, then, quick!' he groaned.
 
